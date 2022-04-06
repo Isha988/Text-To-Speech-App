@@ -5,8 +5,18 @@ It is styled in a neumorphic manner. Play, pause, resume, rate, pitch, voice, an
 
 
 
-## 🔗 Live Preview
-Hosted At : https://isha988.github.io/Text-To-Speech-App/
+## Hosted At
+https://isha988.github.io/Text-To-Speech-App/
+
+
+### Features
+- Play
+- Pause
+- Resume
+- Different Voices
+- Rate
+- Pitch
+- Stop speech
 
 
 
