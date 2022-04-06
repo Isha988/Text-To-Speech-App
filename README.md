@@ -17,6 +17,7 @@ https://isha988.github.io/Text-To-Speech-App/
 - Rate
 - Pitch
 - Stop speech
+- Neumorphic style
 
 
 
