@@ -28,7 +28,7 @@ function getVoices(){
     return new Promise(resolve => {
         setTimeout(() => {
             resolve(synth.getVoices());
-          }, 1000);
+          }, 3000);
     });
 };
 
