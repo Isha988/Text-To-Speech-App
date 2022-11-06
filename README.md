@@ -9,7 +9,7 @@ It is styled in a neumorphic manner. Play, pause, resume, rate, pitch, voice, an
 https://isha988.github.io/Text-To-Speech-App/
 
 
-### Features
+## Features
 - Play
 - Pause
 - Resume
